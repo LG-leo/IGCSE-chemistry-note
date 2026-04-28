@@ -2,224 +2,76 @@
 
 ---
 
-# 🧪 AO2 Structured Question: Stoichiometry & Gas Volumes
+# 🔁 所有可能的 AO2 组合框架（按“桥梁类型”分类）
 
-## 📘 题目背景 (Context)
+## 1️⃣ 通过 “计算” 连接的组合
+任何一个涉及 **质量、物质的量、浓度、气体体积、产率、纯度** 的主题，都可以与 **化学计量（Section 3）** 组合。
 
-In an experiment, **calcium carbonate (CaCO₃)** reacts with **dilute hydrochloric acid (HCl)** to produce **calcium chloride (CaCl₂)**, **water**, and **carbon dioxide (CO₂)**.
+- 电解（4.1）+ 物质的量计算（3.3）：已知电流和时间，计算析出金属质量
+- 滴定（7.1/12.2）+ 百分比纯度（3.3）：用滴定数据计算样品纯度
+- 键能（5.1）+ 燃烧热 + 碳减排计算（10.3）
+- 产率（3.3）+ 可逆反应（6.3）+ 工业条件优化（Haber/Contact）
 
-A student adds **5.00 g of CaCO₃** to **50.0 cm³ of 1.50 mol/dm³ HCl**.  
-The reaction is allowed to go to completion.
+## 2️⃣ 通过 “图表/曲线” 连接的组合
+任何能产生 **数据随时间或条件变化** 的实验，都可以与 **图表分析** 组合。
 
----
+- 加热曲线（1.1）+ 潜热 + 粒子理论解释（1.2）
+- 速率曲线（6.2）+ 不同温度/浓度下的曲线比较 + 碰撞理论
+- 滴定曲线（7.1）+ 指示剂选择 + 半中和点 pKa 推断（弱酸）
+- 溶解度曲线（3.3 / 7.3）+ 结晶方法选择
+- 冷却曲线（5.1）+ 过冷现象 + 结晶放热
 
-## 1️⃣ Write the balanced chemical equation for the reaction.
+## 3️⃣ 通过 “实验设计/评价” 连接的组合
+任何两个不同的实验方法，都可以比较优缺点，或设计对照实验。
 
-> **AO2 Skill**: Translating word equation → symbol equation → balancing → state symbols.
+- 测量反应速率：注射器法 vs 天平法 vs 光度法（6.2 + 12.1）
+- 盐的制备：滴定法 vs 过量固体法 vs 沉淀法（7.3 + 12.2/12.4）
+- 水的纯度检验：沸点 vs 色谱 vs 离子测试（10.1 + 12.5）
+- 气体检验：不同气体的鉴别流程（12.5）与反应方程式（例如 CO₂ 用石灰水 vs 用氢氧化钠溶液吸收称重法）
 
-✅ **Solution:**
+## 4️⃣ 通过 “工业/环境决策” 连接的组合
+涉及 **成本、效率、污染、可持续性** 的比较。
 
-\[
-\text{CaCO}_3(s) + 2\text{HCl}(aq) \rightarrow \text{CaCl}_2(aq) + \text{H}_2\text{O}(l) + \text{CO}_2(g)
-\]
+- 制氢：电解水（4.1）vs 甲烷重整（11.3）vs 光解（10.3）
+- 塑料回收：焚烧产热能（11.8）vs 机械回收 vs 化学解聚（PET）
+- 防锈：电镀（4.1）vs 牺牲保护（9.5）vs 合金化（9.3）
+- 燃料：氢气（4.2）vs 汽油（11.3）vs 生物乙醇（11.6）
 
-🔍 **Explanation**:
-- 1 mole of CaCO₃ reacts with **2 moles** of HCl.
-- CO₂ gas is released, which can be collected and measured.
+## 5️⃣ 通过 “结构-性质-用途” 连接的组合
+给定结构图，要求推导性质，再匹配用途。
 
----
+- 石墨（2.6）+ 导电/润滑 + 电极/润滑剂
+- 金刚石（2.6）+ 坚硬 + 切割工具
+- 合金（9.3）+ 原子排列图 + 硬度增强解释
+- 聚合物（11.8）+ 重复单元 + 是否可生物降解
 
-## 2️⃣ Calculate the number of moles of CaCO₃ used.
+## 6️⃣ 通过 “离子检验逻辑树” 组合
+给定未知物的系列测试结果，推断成分（12.5），然后写出其方程式（3.1/7.1），或用它解释一个反应（6.4）。
 
-> **AO2 Skill**: Using \( n = \frac{m}{M} \), handling units and significant figures.
+- 未知盐 + 焰色（Na⁺）+ 沉淀（Cl⁻ → AgCl 白）+ 气体（CO₃²⁻） → 确定为 NaCl 和 Na₂CO₃ 混合物
+- 未知溶液 + 加碱生成沉淀又溶解（Al³⁺/Zn²⁺）+ 焰色（无） → 推断为 Zn²⁺ 可能
 
-✅ **Solution:**
+## 7️⃣ 通过 “周期表位置预测” 组合
+给出某个未知元素的行为（如与水的反应、形成化合物类型），利用其在周期表中的位置预测其其他性质，并与已知元素比较。
 
-\[
-M_{\text{CaCO}_3} = 40.08 + 12.01 + (3 \times 16.00) = 100.09 \, \text{g/mol}
-\]
+- 预测 Fr（钫）与水反应比 K 更剧烈（8.2）
+- 预测 At（砹）是固体，与 H₂ 反应比 I₂ 更难（8.3）
+- 预测第 4 周期某金属是否为过渡元素（8.4）
 
-\[
-n_{\text{CaCO}_3} = \frac{5.00}{100.09} \approx 0.04996 \, \text{mol} \approx 0.0500 \, \text{mol (3 s.f.)}
-\]
+## 8️⃣ 通过 “能量变化比较” 组合
+比较不同反应的放热量（5.1），结合反应的普遍性（如燃烧、中和、置换）。
 
-📌 **Note**: Always use at least 4 s.f. during calculation; round final answer appropriately.
+- 中和热（HCl + NaOH vs CH₃COOH + NaOH）为什么不同？
+- 燃烧热（甲烷 vs 乙醇 vs 氢气）从键能或标准生成焓数据计算。
 
----
+## 9️⃣ 通过 “氧化还原识别与配平” 组合
+任何涉及电子转移的反应都可以要求判断氧化剂/还原剂、标氧化数、写半反应（6.4），然后与另一主题（如电解、金属置换、电池）连接。
 
-## 3️⃣ Determine the limiting reagent.
+- 金属与盐溶液的置换反应（9.4）→ 氧化还原 + 写出离子电子方程
+- 燃料电池（4.2）→ 阳极 H₂ → 2H⁺ + 2e⁻，阴极 ½O₂ + 2H⁺ + 2e⁻ → H₂O
 
-> **AO2 Skill**: Compare mole ratios using balanced equation.
+## 🔟 通过 “有机官能团反应” 组合
+给定一个有机分子，要求预测它能发生哪些反应（加成、取代、氧化、酯化、聚合），并与相关实验现象或工业应用结合。
 
-✅ **Solution:**
-
-From equation:  
-1 mol CaCO₃ reacts with 2 mol HCl.
-
-Moles of HCl available:
-
-\[
-n_{\text{HCl}} = C \times V = 1.50 \times \frac{50.0}{1000} = 0.0750 \, \text{mol}
-\]
-
-Required moles of HCl for all CaCO₃:
-
-\[
-0.0500 \times 2 = 0.100 \, \text{mol}
-\]
-
-Since 0.0750 mol HCl < 0.100 mol required → **HCl is the limiting reagent**.
-
----
-
-## 4️⃣ Calculate the volume of CO₂ produced at room temperature and pressure (r.t.p.).
-
-> **AO2 Skill**: Gas volume calculation using \( V = n \times V_m \), where \( V_m = 24.0 \, \text{dm}^3/\text{mol} \) at r.t.p.
-
-✅ **Solution:**
-
-From balanced equation:  
-2 mol HCl → 1 mol CO₂.
-
-\[
-n_{\text{CO}_2} = \frac{0.0750}{2} = 0.0375 \, \text{mol}
-\]
-
-\[
-V_{\text{CO}_2} = 0.0375 \times 24.0 = 0.900 \, \text{dm}^3 = 900 \, \text{cm}^3
-\]
-
-📌 **Unit conversion reminder**: \( 1 \, \text{dm}^3 = 1000 \, \text{cm}^3 \)
-
----
-
-## 5️⃣ The student repeats the experiment with 5.00 g of CaCO₃ but only 30.0 cm³ of the same HCl. Predict the volume of CO₂ produced.
-
-> **AO2 Skill**: Predicting outcomes using limiting reagent reasoning without recalculation from scratch.
-
-✅ **Solution:**
-
-Moles of HCl now:
-
-\[
-n_{\text{HCl}} = 1.50 \times \frac{30.0}{1000} = 0.0450 \, \text{mol}
-\]
-
-Moles of CO₂:
-
-\[
-n_{\text{CO}_2} = \frac{0.0450}{2} = 0.0225 \, \text{mol}
-\]
-
-Volume of CO₂:
-
-\[
-V = 0.0225 \times 24.0 = 0.540 \, \text{dm}^3 = 540 \, \text{cm}^3
-\]
-
-✅ **Conclusion**: Volume decreases because less HCl is available.
-
----
-
-## 6️⃣ Sketch and explain how the volume of CO₂ changes over time for both experiments.
-
-> **AO2 Skill**: Graphical interpretation, rate of reaction, equilibrium concepts.
-
-✅ **Solution (description + sketch logic):**
-
-- Both curves start at 0 and rise to final volume.
-- **Experiment 1** (50 cm³ HCl) reaches **900 cm³**.
-- **Experiment 2** (30 cm³ HCl) reaches **540 cm³**.
-- Both flatten when limiting reagent is used up.
-- Initial slope (rate) may be similar if temperature and particle size are same.
-
-📌 **Key concept**: Final volume depends only on limiting reagent; rate depends on concentration (if same, rate similar).
-
----
-
-## 7️⃣ The student wants to collect 200 cm³ of CO₂. What mass of CaCO₃ is needed if excess HCl is used?
-
-> **AO2 Skill**: Reverse calculation from gas volume to reactant mass.
-
-✅ **Solution:**
-
-\[
-n_{\text{CO}_2} = \frac{0.200}{24.0} \approx 0.00833 \, \text{mol}
-\]
-
-From equation: 1 mol CO₂ comes from 1 mol CaCO₃.
-
-\[
-m_{\text{CaCO}_3} = 0.00833 \times 100.09 \approx 0.834 \, \text{g}
-\]
-
----
-
-## 📊 Summary Table of AO2 Skills Demonstrated
-
-| Skill                                                                 | Question |
-| --------------------------------------------------------------------- | -------- |
-| Writing and balancing equations with state symbols                   | Q1       |
-| Calculating moles from mass                                          | Q2       |
-| Identifying limiting reagent                                         | Q3       |
-| Using molar gas volume                                               | Q4, Q5   |
-| Predicting outcomes from changed conditions                          | Q5       |
-| Interpreting graphs of gas production                                | Q6       |
-| Reverse stoichiometry (gas → mass)                                   | Q7       |
-
----
-
-## 🧠 Extended AO2 Challenge: Bond Energy & ΔH
-
-> This is a **Supplement**-style question for students targeting A*–C.
-
-### Question:
-
-The combustion of methane is given by:
-
-\[
-\text{CH}_4(g) + 2\text{O}_2(g) \rightarrow \text{CO}_2(g) + 2\text{H}_2\text{O}(g)
-\]
-
-Use the bond energies below to calculate the enthalpy change of reaction, \( \Delta H \).
-
-| Bond       | Bond Energy (kJ/mol) |
-| ---------- | -------------------- |
-| C–H        | 412                  |
-| O=O        | 496                  |
-| C=O        | 743                  |
-| O–H        | 463                  |
-
-✅ **Solution:**
-
-**Energy absorbed (bonds broken):**
-
-\[
-4 \times 412 + 2 \times 496 = 1648 + 992 = 2640 \, \text{kJ/mol}
-\]
-
-**Energy released (bonds formed):**
-
-\[
-2 \times 743 + 4 \times 463 = 1486 + 1852 = 3338 \, \text{kJ/mol}
-\]
-
-\[
-\Delta H = 2640 - 3338 = -698 \, \text{kJ/mol}
-\]
-
-📌 **Interpretation**: Negative ΔH → **exothermic reaction**.
-
----
-
-## ✅ Final Advice for AO2 Success
-
-- **Always show working** – partial marks are awarded.
-- **Use consistent units** (convert cm³ to dm³, g to kg only if needed).
-- **Round only at the final step**.
-- **Label graphs clearly** (axes, units, best-fit lines).
-- **Explain trends** using collision theory or bond energy reasoning.
-
----
-
-Let me know if you want more AO2 questions on **electrolysis**, **rate of reaction graphs**, or **titration calculations**.
+- 给定丙烯（C₃H₆）：与 Br₂ 反应（烷烃 vs 烯烃区别）+ 聚合生成聚丙烯 + 与水加成生成异丙醇
+- 给定乙醇：氧化成乙醛/乙酸（11.6 + 11.7）+ 酯化反应
