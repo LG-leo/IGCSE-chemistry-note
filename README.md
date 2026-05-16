@@ -10,6 +10,9 @@
   📅 创作年份：2026</p>
   <p><small>详细信息请阅读 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">许可证全文</a> 或查看仓库中的 <code>LICENSE</code> 文件。</small></p>
 </div>
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 
 IGCSE Chemistry 0620 – concise, exam-smart notes. Covers all topics (Core &amp; Extended), Paper 2 &amp; 4 keywords, mark‑scheme answers, and common traps. Based on 15+ past papers (2026–2028 syllabus). Perfect for A/A* revision. No fluff, just what you need to score.
 
