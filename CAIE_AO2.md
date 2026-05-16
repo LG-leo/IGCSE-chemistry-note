@@ -1,5 +1,7 @@
 以下是针对 **Cambridge IGCSE Chemistry (0620) 考试中 AO2（Handling information and problem-solving）** 的 **structured question** 示例与详细解析。内容涵盖 **原理、公式、例题、解题策略、评分标准**，并采用 **Markdown + Unicode + LaTeX 数学格式** 呈现，适用于教学、自学或教师培训。
-
+- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
+- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
+- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
 ---
 
 # 🔁 所有可能的 AO2 组合框架（按“桥梁类型”分类）
