@@ -88,6 +88,14 @@ Similarly, at the boiling point, all input heat is used to completely separate l
 **Reverse processes (condensation, freezing)**:
 When a gas condenses or a liquid freezes, particles **release potential energy** (particle separation decreases, attractive forces do work), and the released energy dissipates as **thermal energy** to the surroundings. During this process, particle kinetic energy remains constant (temperature unchanged) until all particles have completed the state change.
 
+This is easier to understand if we view the phase change as an **energy ledger**. During heating, energy is either stored as **kinetic energy** (raising temperature) or as **potential energy** (changing particle separation and overcoming attractive forces). In the plateau regions of a heating curve, heat input is still being absorbed, but it is used to raise potential energy rather than temperature.
+
+This is also the meaning of **latent heat**. In a phase change, the heat supplied does not change temperature; instead, it is hidden in the substance as internal energy that changes the state. In contrast, **sensible heat** is the heat that directly increases kinetic energy and therefore raises temperature. Understanding this distinction is essential when explaining why temperature remains constant during melting or boiling.
+
+In the physical picture, solid, liquid, and gas correspond to different minima on a potential energy curve. During a phase change, the system must cross an energy barrier to move from one minimum to another. The heat required to cross that barrier is the latent heat. Only after enough latent heat has been absorbed can the particles move into the higher-energy phase.
+
+Typical values confirm the difference: for water, the enthalpy of fusion is about $6.0\,$kJ/mol, while the enthalpy of vaporization is about $40.7\,$kJ/mol. That is why the boiling plateau is usually much longer than the melting plateau.
+
 ### 1.2.3 Enthalpy Change and State Changes
 
 The enthalpy changes involved in state changes:
@@ -106,7 +114,29 @@ $$\Delta H_{sub} = \Delta H_{fus} + \Delta H_{vap}$$
 
 **Important conclusion**: The enthalpy of vaporization is typically much larger than the enthalpy of fusion, because transitioning from liquid to gas requires completely overcoming all interparticle attractive forces (particles go from close-range to long-range), while transitioning from solid to liquid only requires partially overcoming attractive forces (particle separation increases but remains within contact range).
 
-### 1.2.4 Evaporation vs. Boiling — Two Fundamentally Different Processes
+### 1.2.4 Freezing Point Depression: Why Salt Melts Ice
+
+When salt is spread on ice and comes into contact with the thin layer of water on the ice surface, the salt dissolves into Na$^+$ and Cl$^-$ ions. These ions disrupt the ability of water molecules to arrange themselves into the regular hexagonal crystal lattice of ice. As a result, liquid water becomes more difficult to freeze, and the freezing point drops below $0^\circ$C.
+
+- The dissolved ions interfere with the formation of a stable ice lattice.
+- The equilibrium temperature between ice and liquid water decreases as the number of solute particles increases.
+- Therefore, salt water has a lower freezing point than pure water, so ice can melt even at temperatures around or below $0^\circ$C.
+
+This phenomenon is a classic example of a **colligative effect**: it depends on the number of solute particles, not on their chemical identity. In an ideal dilute solution, the freezing point depression is proportional to the molal concentration of solute particles:
+
+$$\Delta T_f = i K_f m$$
+
+where $i$ is the van 't Hoff factor (the number of particles produced per formula unit), $K_f$ is the freezing point depression constant, and $m$ is the molal concentration.
+
+For NaCl, $i \approx 2$ because it produces two ions. For a non-electrolyte such as sugar, $i = 1$. That is why salt lowers the freezing point of water much more effectively than sugar at the same molal concentration.
+
+In practice, NaCl can lower the freezing point of water to around $-10^\circ$C. Salting ice will not keep melting forever; if the temperature falls well below the freezing point of the salt solution, the salt will no longer prevent freezing.
+
+**Standard exam answer**: *Salt lowers the freezing point of water below 0°C, so ice melts.*
+
+**Extended answer**: *NaCl dissolves into ions which disrupt the formation of ice crystals, so the freezing point of the solution drops and the ice melts at temperatures where pure water would stay frozen.*
+
+### 1.2.5 Evaporation vs. Boiling — Two Fundamentally Different Processes
 
 These two concepts are often confused, but they have essential differences:
 
@@ -122,7 +152,13 @@ These two concepts are often confused, but they have essential differences:
 - Can occur **at any temperature** (as long as temperature > 0 K)
 - Does not require an external heat source—utilizes the particles' own kinetic energy
 - Is a **cooling process**: the particles with the highest kinetic energy (fastest-moving particles) are most likely to escape from the surface into the gas phase. The departure of these high-energy particles removes high kinetic energy, **lowering the average kinetic energy of the remaining liquid**, thus decreasing its temperature. This is why blowing on sweat makes you feel cool, and why wiping skin with alcohol produces a cooling sensation.
+- The microscopic explanation is based on the **Maxwell-Boltzmann distribution**: at any temperature, some particles are much faster than average, and those are the ones that can escape from the surface.
 - Evaporation rate is affected by temperature, surface area, air flow, and humidity.
+- In a closed container, evaporation will increase the vapor pressure above the liquid until it reaches equilibrium with condensation. At that point, net evaporation stops. Continuous cooling by evaporation is therefore strongest when the vapor is removed or the air is dry.
+
+This is why dry, windy conditions enhance evaporative cooling. Dry air carries away vapor molecules and keeps the concentration near the liquid surface low, so more fast-moving molecules can escape. In contrast, humid air already contains many vapor molecules, increasing the chance that escaping molecules will recondense and reducing net evaporation.
+
+The strength of intermolecular forces also matters. Water has strong hydrogen bonding, so it evaporates more slowly than ethanol. Ethanol molecules have weaker attractions and a higher vapor pressure at room temperature, so they evaporate faster and produce a stronger cooling effect on the skin.
 
 ---
 
@@ -291,6 +327,16 @@ $$\frac{v_1}{v_2} = \sqrt{\frac{m_2}{m_1}} = \sqrt{\frac{M_{r2}}{M_{r1}}}$$
 Since diffusion rate is proportional to average particle velocity, the diffusion rate is inversely proportional to the square root of relative molecular mass.
 
 **Practical implication**: Hydrogen ($M_r = 2$) diffuses $\sqrt{32/2} = \sqrt{16} = 4$ times faster than oxygen ($M_r = 32$). This is why hydrogen-filled balloons deflate much faster than air-filled balloons.
+
+In the classic diffusion experiment with two reacting gases, the position of the visible reaction zone depends on which gas travels faster. For example, if NH$_3$ and HCl diffuse toward each other from opposite ends, the white smoke of NH$_4$Cl forms closer to the HCl side because NH$_3$ is lighter and travels faster.
+
+If the gases are CH$_4$ and HCl, CH$_4$ is lighter ($M_r = 16$ versus $M_r = 36.5$ for HCl) and therefore diffuses faster. The white smoke of CH$_4$ + HCl reaction will form closer to the HCl side.
+
+More precisely:
+
+$$\frac{v_{CH_4}}{v_{HCl}} = \sqrt{\frac{36.5}{16}} \approx 1.5$$
+
+So CH$_4$ diffuses about 1.5 times faster than HCl. In exam questions that ask “which gas reaches the reaction zone first?” or “where does the white smoke appear?”, the answer is: the lighter gas travels faster, and the white smoke appears closer to the heavier gas side.
 
 ### 1.5.4 Other Factors Affecting Diffusion Rate
 
