@@ -1,7 +1,38 @@
-# TOPIC 1: States of Matter — 物质状态深度原理全解析
+# Cambridge IGCSE Chemistry 0620 — 核心原理深度解析笔记（完整扩展版）
+
 - 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
 - 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
 - This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
+
+---
+
+# 📋 考纲综合整理 — 全书总览
+
+本笔记完全覆盖 Cambridge IGCSE Chemistry 0620 的全部 12 大主题，以下为完整知识框架：
+
+| 主题 | 内容要点 | 核心概念 |
+|-----|---------|---------|
+| **Topic 1** | States of Matter — 物质状态 | 三态粒子模型、状态变化与能量、气体定律、扩散与 Graham 定律 |
+| **Topic 2** | Atoms, Elements and Compounds — 原子、元素与化合物 | 原子结构、电子排布、同位素、离子键与共价键、巨型结构、金属键 |
+| **Topic 3** | Stoichiometry — 化学计量学 | 相对质量、摩尔与阿伏伽德罗常数、气体摩尔体积、溶液浓度、滴定、实验式与分子式、产率与纯度 |
+| **Topic 4** | Electrochemistry — 电化学 | 电解原理、产物预测、电镀、氢氧燃料电池 |
+| **Topic 5** | Chemical Energetics — 化学能量学 | 放热与吸热反应、活化能、键能与焓变、赫斯定律、量热法 |
+| **Topic 6** | Chemical Reactions — 化学反应 | 反应速率与碰撞理论、可逆反应与化学平衡、Le Chatelier 原理、氧化还原与氧化数 |
+| **Topic 7** | Acids, Bases and Salts — 酸、碱与盐 | 酸碱理论、强酸与弱酸、pH 标度、氧化物分类、盐的制备、结晶水 |
+| **Topic 8** | The Periodic Table — 元素周期表 | 周期表结构、碱金属、卤素、过渡元素、稀有气体 |
+| **Topic 9** | Metals — 金属 | 金属键、反应性序列、合金、腐蚀与防护、金属提取 |
+| **Topic 10** | Chemistry of the Environment — 环境化学 | 水质与检测、空气污染物、温室效应、肥料、光合作用 |
+| **Topic 11** | Organic Chemistry — 有机化学 | 同系列、同分异构体、石油分馏、烷烃取代、烯烃加成、乙醇、羧酸与酯、聚合物 |
+| **Topic 12** | Experimental Techniques — 实验技术与分析 | 色谱法、离子鉴定（阴/阳离子+焰色）、气体鉴定 |
+
+---
+
+> **使用建议**：本笔记以"无例题、多原理、深层次"的方式编写，聚焦于每个概念的**本质内涵、逻辑推导、适用范围和内在联系**。建议结合考纲条目逐节学习，先把握每章的框架结构，再深入理解微观原理。
+
+---
+
+# TOPIC 1: States of Matter — 物质状态深度原理全解析
+
 ---
 
 # 一、物质三态的本质：从微观到宏观的全景透视
