@@ -3080,11 +3080,7 @@ $$P_{\text{success}} = P_{\text{orientation}} \times P_{\text{energy}}$$
 - $P_{\text{orientation}}$ = 碰撞时粒子具有**正确的空间取向**的概率
 - $P_{\text{energy}}$ = 碰撞粒子的总动能 $\geq$ **活化能 $E_a$** 的概率
 
-**前提三：活化能 $E_a$ 的本质。** 活化能是反应物从稳定态转变为过渡态所需的**最小能量壁垒**。从能量图上理解：
-
-$$\text{Reactants} \xrightarrow{E_a} [\text{Transition State}]^\ddagger \rightarrow \text{Products}$$
-
-过渡态（Transition State / Activated Complex）是一个**能量最高、极不稳定**的构型，在此构型中旧键部分断裂、新键部分形成。过渡态**不能被分离**，它在形成瞬间即向产物方向崩塌。
+**前提三：活化能 $E_a$ 的本质。** 活化能是反应物分子发生有效碰撞所需的**最小能量**。只有能量达到或超过 $E_a$ 的碰撞才能导致化学键的断裂和新键的形成。
 
 **能量分布与 Boltzmann 分布**：
 
