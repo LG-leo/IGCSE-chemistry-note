@@ -7080,7 +7080,7 @@ $$[-\text{CH}(\text{CH}_3)-\text{CH}_2-]_n$$
 
 **条件**：高温（约 700-900°C）、高压（约 7000 kPa）、无催化剂
 
-**化学本质**：在高温下，C—C 单键发生断裂，分子碎片重新组合为短链烃。
+**化学本质**：在高温下，C—C 单键发生断裂，生成反应活性很高的**自由基 (Free Radicals)**，随后通过链反应重排为短链烃。
 
 $$\text{R}-\text{CH}_2-\text{CH}_2-\text{R}' \xrightarrow{\Delta} \text{R}-\text{CH}_2\cdot + \cdot\text{CH}_2-\text{R}'$$
 
