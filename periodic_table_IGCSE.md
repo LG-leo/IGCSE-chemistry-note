@@ -1,9 +1,4 @@
 # IGCSE 化学 (0620) 常见元素周期表（考点版）
-- 这份笔记由 LG-leo 整理和维护。如果你觉得这份笔记对你有帮助，欢迎在 GitHub 上关注我或给我一个 ⭐，这能帮助我持续产出更多免费的学习资源。
-- 我的其他课程笔记：https://github.com/LG-leo?tab=repositories
-- This note is maintained by LG-leo. If you find it helpful, feel free to follow me or leave a ⭐ on GitHub. It helps me keep producing more free study resources. Check out my other notes: https://github.com/LG-leo?tab=repositories
-> 基于 CAIE 2026–2028 考纲，整理高频元素及其考试特性。  
-> 电子排布使用 K, L, M 层简化格式（例如 2,8,8,1）。
 
 | 原子序数 | 符号 | 中文名称 | 英文名称 | 电子排布 | 相对原子质量 | 主要考点 / 特性 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
